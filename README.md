@@ -11,9 +11,9 @@ Amazon
 - S3KeySensor
 - S3CopyObjectOperator
 - S3DeleteObjectsOperator
-
-Docker -->
-<!-- - DockerOperator -->
+-->
+Docker 
+- DockerOperator
 
 ## Author
 
