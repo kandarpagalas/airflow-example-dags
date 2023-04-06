@@ -4,14 +4,14 @@
 
 Airflow
 - EmptyOperator
-<!-- - BashOperator
-- PythonOperator
+<!-- - BashOperator -->
+<!-- - PythonOperator -->
 
 Amazon
 - S3KeySensor
 - S3CopyObjectOperator
 - S3DeleteObjectsOperator
--->
+
 Docker 
 - DockerOperator
 
